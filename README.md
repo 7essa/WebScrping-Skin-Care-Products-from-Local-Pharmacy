@@ -1,5 +1,5 @@
 
-#  WebScraping and API On Local Pharmacy OnlineShop :spa: :care: :money:
+#  WebScraping and API On Local Pharmacy OnlineShop :sparkler: 💫 💸
 
 ## About 
 ### The project
