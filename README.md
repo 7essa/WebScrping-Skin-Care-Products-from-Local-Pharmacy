@@ -1,10 +1,10 @@
 
-#  Sharing Dataset on Kaggle
+#  WebScraping and API On Local Pharmacy OnlineShop :spa: :care: :money:
 
 ## About 
 ### The project
-- This project was one of the required projects in Data Science Immersive Course provided by General Assembly.
-- The aim of this project is to use the API and webscraping skills to create a dataset revolving around a topic, problem, clean it, properly document it, and submit it to the Kaggle dataset repository
+- This project was one of the required projects in Data Science Immersive Course provided by [General Assembly](https://www.linkedin.com/company/general-assembly-middle-east/).
+- The aim of this project is to use the API and webscraping skills to create a dataset revolving around a topic, problem, clean it, properly document it, and submit it to the     Kaggle dataset repository.
      - Requirements
           - Gather and prepare your data using API or webscraping. A ready-made dataset is NOT allowed.
           - Make your data accessible and readable by using common open file formats like CSV.
@@ -26,29 +26,31 @@
 |MONTH|int|The month the data had been gathered|
 |ITEM_IMG|obj|The url for an img of the product|
 
-# Getting Started
+## Getting Started
 -----------------------------------------------------------------------
 We will be using jupyter notebook in this project so we will need to Install anaconda 3 which will automatically install jupyter notebook , which is the main platform we will be using for this project.
 
-# Prerequisites
+## Prerequisites
 Install anaconda 3 which will automatically install jupyter notebook with python 3 , which is the main platform we will be using for this project.
 
-# Installing
+## Installing
 You will want to install anaconda 3 latest version depend on your operating system through this link.
 
-# Built With
+## Built With
 -----------------------------------------------------------------------------------------------
 [Jupyter notebook](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - platform used
 
-# Authors
+## Authors
 -----------------------------------------------------------------------------------------------
-###### Hessa Altamimi 
+#### Hessa Altamimi 
 You can find the data  here. [click here](https://www.kaggle.com/hessatmim/skin-care)
 
-# Acknowledgments
+## Acknowledgments
 -----------------------------------------------------------------------------------------------
 > MISK academy
+
 > General assembly
+
 > special thanks to our instructors for all the help they provided
 
 
