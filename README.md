@@ -1,16 +1,20 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Sharing Dataset on Kaggle
--------------------------------------------------------------------------
-### Description
+#  Sharing Dataset on Kaggle
 
-We have been using various datasets in the course that are either model/toy datasets or collected in conditions fairly remote to local relevance. With the newfound API and webscraping skills that you learned, this project challenges you to create a dataset revolving around a topic, problem, or theme of your choice, clean it, properly document it, and submit it to the Kaggle dataset repository. Curating and sharing a dataset is an integral part of your skills and practice as a data scientist that should not be overlooked!
+## About 
+### The project
+- This project was one of the required projects in Data Science Immersive Course provided by General Assembly.
+- The aim of this project is to use the API and webscraping skills to create a dataset revolving around a topic, problem, clean it, properly document it, and submit it to the Kaggle dataset repository
+     - Requirements
+          - Gather and prepare your data using API or webscraping. A ready-made dataset is NOT allowed.
+          - Make your data accessible and readable by using common open file formats like CSV.
+          - Take the time to describe your dataset thoroughly.
+          - Pick a clear, open license ensuring your dataset is reusable.
+          - Publish a kernel on your dataset to help others learn how they can work with the data. The kernel should show features of the dataset with a plot or two to showcase               some variables in the dataset. Also raise potentially interesting questions that could be answered using this dataset.
+           - Put your data collection and cleaning scripts in a repo.
 
-For project 3, your goal is three-fold:
 
-1. Define a domain, issue, and problem that you are interested in (preferably with local/regional relevance).
-2. Collect, clean, and submit the data the Kaggle datasets repository under the course's organization.
-3. Submit the data collection and a starter kernel in public associated to the published dataset.
-
+### The dataset
 |Feature|Type|Description|
 |---|---|---|
 |ITEME_NAME|obj|The name of the product |
